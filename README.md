@@ -1,3 +1,6 @@
+<img width="420" height="276" alt="image" src="https://github.com/user-attachments/assets/29aa97c7-8d64-42ac-bd9c-465b2581b85e" />
+
+
 # Formulário com Validação em React
 
 Este é um projeto simples que demonstra a criação de um formulário com validação de dados em tempo real utilizando React, TypeScript e a biblioteca Zod.
